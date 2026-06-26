@@ -3,4 +3,5 @@ matplotlib
 joblib
 Pillow
 pandas
-sklearn
+scikit-learn
+
